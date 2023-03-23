@@ -1,0 +1,5 @@
+# Following configuration is also not helpful, because it clearly sees when construction injection is happening
+
+#spring:
+#  main:
+#    allow-circular-references: true
